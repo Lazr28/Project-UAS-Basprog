@@ -1,6 +1,8 @@
 # PROJECT UAS BAHASA PEMROGRAMAN
 
 ### LINK DOKUMENTASI :
-   YOUTUBE:
+   YOUTUBE:\
+    [Klik disini](https://youtu.be/Neypkh5FOgU)
 
-   PDF: 
+   PDF: \
+   [Klik disini](/Dokumen/Tutorial.pdf)
